@@ -1,0 +1,1279 @@
+{
+  "meta": {
+    "title": "Trabz | The Filipino Worker's Superapp",
+    "description": "Find jobs, earn daily, learn new skills. The blue-collar superapp for Filipinos."
+  },
+  "common": {
+    "download": "Download",
+    "downloadNow": "Download Now",
+    "downloadNa": "Download Now",
+    "learnMore": "Learn More",
+    "learnMoreArrow": "Learn more",
+    "signUp": "Sign Up",
+    "login": "Portal",
+    "submit": "Submit",
+    "free": "Free",
+    "contactSales": "Contact Sales",
+    "startFreeTrial": "Start Free Trial",
+    "openMainMenu": "Open main menu",
+    "closeMenu": "Close menu",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "save20": "Save 20%",
+    "popular": "Popular",
+    "perMonth": "/month",
+    "live": "Live",
+    "brandName": "Trabz",
+    "brandFirst": "Trabz",
+    "brandSecond": "",
+    "contact": "Contact Us"
+  },
+  "nav": {
+    "workers": "For Workers",
+    "employers": "For Business",
+    "kayaScore": "KayaScore",
+    "ofwHub": "OFW Hub",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "tagline": "Empowering every Filipino worker.",
+    "workersHeading": "For Workers",
+    "employersHeading": "For Business",
+    "companyHeading": "Company",
+    "legalHeading": "Legal",
+    "workersLinks": {
+      "findJob": "Find Jobs",
+      "gigShifts": "Gig & Shifts",
+      "upskilling": "Upskilling",
+      "eWallet": "E-Wallet",
+      "ofwHub": "OFW Hub"
+    },
+    "employersLinks": {
+      "postJob": "Post a Job",
+      "kayaScore": "KayaScore Assessment",
+      "pricing": "Pricing",
+      "apiAccess": "API Access"
+    },
+    "companyLinks": {
+      "about": "About Us",
+      "contact": "Contact Us",
+      "blog": "Blog",
+      "press": "Press"
+    },
+    "legalLinks": {
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "dataProtection": "Data Protection"
+    },
+    "socialLinks": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "linkedin": "LinkedIn"
+    },
+    "copyright": "© 2026 Trabz. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "badge": "New! Smart Job Matching",
+      "badgeLink": "Learn more",
+      "title": "The Filipino Worker's Superapp",
+      "description": "Find jobs, earn daily, learn new skills, and access financial services — all in one app built for the Filipino worker.",
+      "ctaPrimary": "Download Now",
+      "ctaSecondary": "Learn More",
+      "phoneTitle": "Trabz App",
+      "phoneBrand": "Trabz",
+      "phoneNotification": "3 new jobs near you",
+      "phoneJob1": "Construction Worker",
+      "phoneJob1Location": "Quezon City",
+      "phoneJob1Salary": "₱18,000",
+      "phoneJob2": "Delivery Rider",
+      "phoneJob2Location": "Makati",
+      "phoneJob2Salary": "₱15,000",
+      "phoneJob3": "Service Crew",
+      "phoneJob3Location": "BGC",
+      "phoneJob3Salary": "₱16,000",
+      "phoneTabJobs": "Jobs",
+      "phoneTabShifts": "Shifts",
+      "phoneTabLearn": "Learn",
+      "phoneTabWallet": "Wallet"
+    },
+    "logoCloud": {
+      "heading": "Built for Filipino workers across all industries",
+      "industries": {
+        "construction": "Construction",
+        "retail": "Retail",
+        "foodBeverage": "Food & Beverage",
+        "logistics": "Logistics",
+        "domestic": "Domestic Services",
+        "manufacturing": "Manufacturing"
+      }
+    },
+    "howItWorks": {
+      "subtitle": "How It Works",
+      "title": "Three simple steps to get started",
+      "step1Name": "Create a Profile",
+      "step1Desc": "Just your name, skills, and location. No resume needed. Less than 2 minutes.",
+      "step2Name": "Browse Jobs",
+      "step2Desc": "Smart matching finds you jobs near you. Filter by type, pay, and schedule. One-tap apply.",
+      "step3Name": "Start Earning",
+      "step3Desc": "Get hired fast. Access earned wages early. Build your career with TESDA-aligned training."
+    },
+    "bentoFeatures": {
+      "subtitle": "All in One App",
+      "title": "Built for the Filipino Worker",
+      "jobMarketplace": {
+        "title": "Job Marketplace",
+        "description": "Smart job matching. Location-based search. Verified employers with green shield badges. One-tap apply.",
+        "job1": "Welder — Quezon City — ₱22K",
+        "job2": "Driver — Makati — ₱18K",
+        "job3": "Cook — BGC — ₱16K",
+        "job4": "Guard — Pasig — ₱15K"
+      },
+      "gigShift": {
+        "title": "Gig & Shift Work",
+        "description": "Browse and claim same-day shifts. Rate your experience. Build your reliability score.",
+        "mon": "Mon",
+        "tue": "Tue",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sat": "Sat",
+        "shifts": "2 shifts",
+        "noShift": "—"
+      },
+      "financial": {
+        "title": "Financial Services",
+        "description": "E-wallet, earned wage access, micro-loans, and remittance integration with GCash & Maya.",
+        "availableBalance": "Available Balance",
+        "balanceAmount": "₱12,450",
+        "send": "Send",
+        "cashOut": "Cash Out"
+      },
+      "upskilling": {
+        "title": "Upskilling & TESDA",
+        "description": "Free micro-courses aligned with TESDA National Certificates. Earn badges. Level up your career.",
+        "course1": "Welding NC II",
+        "course1Progress": "85",
+        "course2": "Food Safety",
+        "course2Progress": "60",
+        "course3": "Basic English",
+        "course3Progress": "40",
+        "course4": "First Aid",
+        "course4Progress": "100"
+      },
+      "communityTitle": "Community & Networking",
+      "communityDesc": "70+ trade communities, peer mentoring, job referrals, and employer reviews.",
+      "missionsTitle": "Trabz Missions",
+      "missionsDesc": "Earn rewards through micro-tasks, referrals, and gamified challenges.",
+      "ofwHubTitle": "OFW Hub",
+      "ofwHubDesc": "DMW-verified jobs, Smart Contract Scanner, family dashboard, and emergency hotline.",
+      "kayaScoreTitle": "KayaScore Assessment",
+      "kayaScoreDesc": "21-trait behavioral profiling with role-specific benchmarks and team analytics."
+    },
+    "stats": {
+      "subtitle": "Numbers That Speak",
+      "title": "Trusted by thousands of Filipinos",
+      "description": "From construction workers to household service providers, Trabz helps find the right job — fast, easy, and safe.",
+      "stat1Label": "Active Workers",
+      "stat1Value": "500K+",
+      "stat2Label": "Partner Employers",
+      "stat2Value": "10K+",
+      "stat3Label": "Smart Match Rate",
+      "stat3Value": "95%",
+      "stat4Label": "Wages Facilitated",
+      "stat4Value": "₱2B+"
+    },
+    "testimonials": {
+      "testimonial1Quote": "I used to line up at construction sites before 5 AM to find work. Now, I get my shifts on my phone while having coffee. My income has increased by 40% thanks to Trabz.",
+      "testimonial1Name": "Maria Santos",
+      "testimonial1Role": "Construction Worker, Quezon City",
+      "testimonial1Initials": "MS",
+      "testimonial2Quote": "As an employer, we struggled to find reliable workers. With Trabz, there are verified profiles and a ratings system. We hired 50 welders in just 3 days.",
+      "testimonial2Name": "Jun Reyes",
+      "testimonial2Role": "HR Manager, BuildRight Construction",
+      "testimonial2Initials": "JR"
+    },
+    "testimonialGrid": {
+      "subtitle": "Testimonials",
+      "title": "Worker Stories"
+    },
+    "ctaDownload": {
+      "title": "Download Trabz",
+      "description": "Start your journey now. Signing up is free, and you'll get job matches in your area right away.",
+      "ctaPrimary": "Coming Soon",
+      "ctaSecondary": "Learn More",
+      "availability": "Coming soon on Android and iOS."
+    }
+  },
+  "workers": {
+    "hero": {
+      "subtitle": "For Workers",
+      "title": "Your Job, In Your Hands",
+      "description": "Smart job matching, earned wage access, and TESDA-aligned training — all in one app for the Filipino worker."
+    },
+    "page": {
+      "heroBadge": "For Workers",
+      "heroTitle": "Find <highlight>Better Jobs,</highlight> Earn More",
+      "heroDesc": "Your all-in-one app for jobs, gigs, learning, and financial services. Built for Filipino blue-collar workers. 100% free to use.",
+      "downloadApp": "Download Free App",
+      "browseJobs": "Browse Jobs Now",
+      "quickStat1Value": "50K+",
+      "quickStat1Label": "Active job posts",
+      "quickStat2Value": "Free",
+      "quickStat2Label": "100% forever",
+      "quickStat3Value": "Verified",
+      "quickStat3Label": "No scam employers",
+      "viewAllJobs": "View All Jobs",
+      "jobMarketplaceBadge": "Job Marketplace",
+      "jobMarketplaceTitle": "Find Jobs That Match You",
+      "jobMarketplaceDesc": "Thousands of verified job posts updated daily. Smart matching finds jobs that fit your skills and location.",
+      "gigBadge": "Gig Economy",
+      "gigTitle": "Earn On Your Own Schedule",
+      "gigDesc": "Not ready for full-time work? Pick up gigs and shifts when you want. Get paid instantly after completing work.",
+      "findMoreGigs": "Find More Gigs",
+      "walletBadge": "Financial Services",
+      "walletTitle": "Your Money, Your Way",
+      "walletDesc": "Get paid fast. Access your earnings early. Pay bills, send money, and build your credit score.",
+      "walletBalance": "Trabz Wallet Balance",
+      "cashIn": "Cash In",
+      "cashOut": "Cash Out",
+      "earlyWageAccess": "Early Wage Access",
+      "academyBadge": "Trabz Academy",
+      "academyTitle": "Level Up Your Skills",
+      "academyDesc": "Free courses designed for mobile. Learn skills that employers want. Earn badges and TESDA-aligned certifications.",
+      "ofwBadge": "OFW Hub",
+      "ofwTitle": "For Aspiring OFWs",
+      "ofwDesc": "Verify agencies. Scan contracts for red flags. Prepare for work abroad safely.",
+      "communityBadge": "Community",
+      "communityTitle": "You're Not Alone",
+      "communityDesc": "Join thousands of workers helping each other. Share tips, report bad employers, earn referral bonuses.",
+      "missionsBadge": "Missions",
+      "missionsTitle": "Earn Extra by Using the App",
+      "missionsDesc": "Complete simple missions and earn real money. Check-in daily, refer friends, complete courses.",
+      "ctaTitle": "Ready to Find Your Next Job?",
+      "ctaDesc": "Download the Trabz app for free. Join 500,000+ Filipino workers earning better.",
+      "ctaPrimary": "Download Free App",
+      "ctaSecondary": "Browse Jobs Online"
+    },
+    "smartMatching": {
+      "subtitle": "Smart Job Matching",
+      "title": "Jobs That Fit You",
+      "description": "Our smart engine finds the right job for you — based on your skills, location, and preferred schedule.",
+      "matchLabel": "Matches For You",
+      "job1": "Welder — Quezon City — ₱22K/mo",
+      "job2": "Electrician — Pasig — ₱20K/mo",
+      "job3": "Painter — Makati — ₱18K/mo",
+      "matchPercent98": "98% Match",
+      "matchPercent85": "85% Match",
+      "matchPercent80": "80% Match"
+    },
+    "matchingFeatures": {
+      "feature1Name": "Smart Match",
+      "feature1Desc": "Automatic job suggestions based on your skills and location. No need to search manually.",
+      "feature2Name": "One-Tap Apply",
+      "feature2Desc": "No cover letter needed. Just tap and apply. Fast and easy.",
+      "feature3Name": "Verified Employers",
+      "feature3Desc": "Green badge for trusted and verified employers. No scams.",
+      "feature4Name": "Real-Time Updates",
+      "feature4Desc": "Push notifications for new jobs and application status updates."
+    },
+    "features": {
+      "subtitle": "Why Trabz?",
+      "title": "Everything a Worker Needs",
+      "description": "Not just job search — but a complete platform for career growth for every Filipino blue-collar worker.",
+      "feature1Name": "Free Job Search",
+      "feature1Desc": "Job searching is completely free. Unlimited applications.",
+      "feature2Name": "Location-Based Results",
+      "feature2Desc": "Jobs near you. Save on transportation costs and commute time.",
+      "feature3Name": "Early Wage Access",
+      "feature3Desc": "Earned wage access — withdraw your accrued wages before payday.",
+      "feature4Name": "TESDA-Aligned Training",
+      "feature4Desc": "Free micro-courses to level up your skills and earn certificates.",
+      "feature5Name": "Verified Identity",
+      "feature5Desc": "Build your trust score. Verified profiles mean better job opportunities.",
+      "feature6Name": "Flexible Schedules",
+      "feature6Desc": "Choose full-time, part-time, or gig work — you decide your own schedule."
+    },
+    "testimonials": {
+      "testimonial1Quote": "I used to line up at a construction site before 5 AM. Now I can get shifts right on my phone. My income increased by 40%.",
+      "testimonial1Name": "Maria Santos",
+      "testimonial1Role": "Construction Worker, Quezon City",
+      "testimonial1Initials": "MS",
+      "testimonial2Quote": "As a driver, it was hard for me to find work nearby. With Trabz, job matching in my area is automatic. Less gas expenses!",
+      "testimonial2Name": "Pedro Cruz",
+      "testimonial2Role": "Delivery Driver, Makati",
+      "testimonial2Initials": "PC",
+      "testimonial3Quote": "I took a food safety course on the app and passed the NC II. My job offers increased from ₱14K to ₱18K.",
+      "testimonial3Name": "Ana Lim",
+      "testimonial3Role": "Cook, BGC Taguig",
+      "testimonial3Initials": "AL"
+    },
+    "cta": {
+      "title": "Are You Ready?",
+      "description": "Download Trabz and start a new chapter in your career. Signing up is free!",
+      "primaryText": "Download Now",
+      "secondaryText": "Learn More"
+    },
+    "categories": {
+      "subtitle": "Everything You Need",
+      "title": "The Complete Worker Platform",
+      "description": "From job search to financial services — everything a Filipino worker needs in one app.",
+      "jobMarketplace": {
+        "name": "Job Marketplace",
+        "feature1Name": "Quick-Apply",
+        "feature1Desc": "One-tap apply and walk-in interview scheduling — no lengthy forms needed.",
+        "feature2Name": "Location-Based Matching",
+        "feature2Desc": "GPS-powered jobs near you, down to barangay-level precision.",
+        "feature3Name": "Smart Job Matching",
+        "feature3Desc": "Smart matching by skills, location, education, and preferences.",
+        "feature4Name": "Verified Job Posts",
+        "feature4Desc": "Green shield badge for verified employers to prevent scams.",
+        "feature5Name": "Multilingual Support",
+        "feature5Desc": "Available in English and Filipino.",
+        "feature6Name": "Simple Profile",
+        "feature6Desc": "Just your name, age, skills, and photo — no resume needed.",
+        "feature7Name": "Skill Tags",
+        "feature7Desc": "Tag your skills: welding, carpentry, driving, cooking, caregiving, and more.",
+        "feature8Name": "Job Categories",
+        "feature8Desc": "Construction, F&B, retail, logistics, domestic work, manufacturing, and more.",
+        "feature9Name": "OFW Job Board",
+        "feature9Desc": "Overseas jobs in Saudi, UAE, Singapore, and HK with DMW verification.",
+        "feature10Name": "Real-Time Chat",
+        "feature10Desc": "In-app messaging between you and potential employers."
+      },
+      "gigShift": {
+        "name": "Gig & Shift Work",
+        "feature1Name": "Shift Marketplace",
+        "feature1Desc": "Browse and claim same-day or next-day shifts instantly.",
+        "feature2Name": "Shift Rating System",
+        "feature2Desc": "Rate shifts and get rated — build your reliability reputation.",
+        "feature3Name": "Performance Scoring",
+        "feature3Desc": "Attendance tracking and reliability score that grows with you.",
+        "feature4Name": "Temp-to-Hire Pipeline",
+        "feature4Desc": "Start as a gig worker, get noticed, and convert to permanent employment.",
+        "feature5Name": "Smart Shift Planning",
+        "feature5Desc": "Employers post shifts based on real-time demand — more options for you.",
+        "feature6Name": "Instant Booking",
+        "feature6Desc": "Fill last-minute shifts at events, warehouses, and restaurants.",
+        "feature7Name": "Local Services Board",
+        "feature7Desc": "Offer peer-to-peer services: cleaning, errands, repairs, and pet care."
+      },
+      "wallet": {
+        "name": "Trabz Wallet",
+        "feature1Name": "In-App E-Wallet",
+        "feature1Desc": "Digital wallet for receiving pay, incentives, and loan disbursements.",
+        "feature2Name": "Earned Wage Access",
+        "feature2Desc": "Access your earned wages before payday — no more waiting.",
+        "feature3Name": "Micro-Loans",
+        "feature3Desc": "Collateral-based or income-based lending with fair terms.",
+        "feature4Name": "Remittance Integration",
+        "feature4Desc": "Send money via GCash, Maya, and Western Union — built right in.",
+        "feature5Name": "Savings Tools",
+        "feature5Desc": "Goal-based micro-savings: pang-tuition, pang-bahay, and more.",
+        "feature6Name": "Insurance",
+        "feature6Desc": "Affordable accident, health, and life insurance bundles.",
+        "feature7Name": "Alternative Credit Scoring",
+        "feature7Desc": "Your job history and platform behavior build your credit — not traditional banks."
+      },
+      "upskilling": {
+        "name": "Upskilling & Learning",
+        "feature1Name": "Micro-Courses",
+        "feature1Desc": "Short video-based skills training in welding, cooking, caregiving, driving.",
+        "feature2Name": "TESDA-Aligned Certifications",
+        "feature2Desc": "Courses mapped to TESDA National Certificates (NC I, NC II).",
+        "feature3Name": "Language Training",
+        "feature3Desc": "Basic English, Arabic, and Mandarin for OFW-bound workers.",
+        "feature4Name": "Digital Literacy",
+        "feature4Desc": "Smartphone basics, online safety, and app usage training.",
+        "feature5Name": "Certification Badges",
+        "feature5Desc": "In-app badges displayed on your profile for every certification earned.",
+        "feature6Name": "Community Learning Groups",
+        "feature6Desc": "Join peer groups by trade — electricians, plumbers, caregivers."
+      },
+      "community": {
+        "name": "Community",
+        "feature1Name": "Trade Communities",
+        "feature1Desc": "70+ groups by profession to discuss tips, opportunities, and wages.",
+        "feature2Name": "Peer Mentoring",
+        "feature2Desc": "Get guidance from experienced workers who've been where you are.",
+        "feature3Name": "Job Referrals",
+        "feature3Desc": "Earn rewards for referring friends to jobs they'll love.",
+        "feature4Name": "Success Stories",
+        "feature4Desc": "Read featured stories from workers who found their path through Trabz.",
+        "feature5Name": "Employer Reviews",
+        "feature5Desc": "Rate and review employers — full transparency for workers."
+      },
+      "missions": {
+        "name": "Trabz Missions",
+        "feature1Name": "Missions & Tasks",
+        "feature1Desc": "Complete micro-tasks like surveys, referrals, and app reviews for rewards.",
+        "feature2Name": "Incentive Wallet",
+        "feature2Desc": "Earn credits while waiting for your job applications.",
+        "feature3Name": "Gamification",
+        "feature3Desc": "Badges, streaks, and leaderboards to keep you engaged and earning."
+      }
+    }
+  },
+  "employers": {
+    "page": {
+      "heroBadge": "For Business",
+      "heroTitle": "Hire the Right Workers, <highlight>Faster</highlight>",
+      "heroDesc": "Smart hiring automation for employers who need reliable blue-collar workers — fast, easy, and verified. Access 500K+ skilled Filipino workers.",
+      "postJob": "Post a Job for Free",
+      "scheduleDemo": "Schedule a Demo",
+      "hiringAutomationBadge": "Hiring Automation",
+      "hiringAutomationTitle": "Smart Recruitment",
+      "hiringAutomationDesc": "From job posting to onboarding, automation handles the heavy lifting. Reduce time-to-hire by 85% with intelligent automation.",
+      "agencyBadge": "For Recruitment Agencies",
+      "agencyTitle": "Supercharge Your Deployments",
+      "agencyDesc": "Process thousands of candidates faster. Our tools are built for high-volume hiring and overseas placement compliance.",
+      "partnerWithUs": "Partner With Us",
+      "jobMarketplaceBadge": "Job Marketplace",
+      "jobMarketplaceTitle": "Post Jobs, Get Quality Applicants",
+      "jobMarketplaceDesc": "Our smart job marketplace connects you with verified, skilled workers in your area. See real-time applicant profiles and KayaScore behavioral assessments.",
+      "postFirstJob": "Post Your First Job",
+      "gigBadge": "Gig & Shift Work",
+      "gigTitle": "Fill Shifts Instantly",
+      "gigDesc": "Need workers for an event tonight? Our shift marketplace lets you post shifts and get instant bookings from reliable, rated workers in your area.",
+      "kayaBadge": "KayaScore Assessment",
+      "kayaTitle": "Know Who You're Hiring",
+      "kayaDesc": "Our proprietary 21-trait behavioral assessment goes beyond resumes. Understand candidate work ethic, safety consciousness, and cultural fit before you hire.",
+      "toolsBadge": "Employer Tools",
+      "toolsTitle": "Everything You Need to Manage Hiring",
+      "toolsDesc": "From ATS pipelines to compliance tools, we've got you covered.",
+      "trustBadge": "Trust & Safety",
+      "trustTitle": "Hire with Confidence",
+      "trustDesc": "Every worker on our platform goes through verification. Smart monitoring continuously checks for fraud and suspicious activity.",
+      "pricingBadge": "Pricing",
+      "pricingTitle": "Simple, Transparent Pricing",
+      "pricingDesc": "Start free. Scale as you grow. No hidden fees.",
+      "mostPopular": "Most Popular",
+      "ctaTitle": "Ready to Transform Your Hiring?",
+      "ctaDesc": "Join 10,000+ employers who have found the right workers faster with Trabz.",
+      "ctaPrimary": "Post a Job for Free",
+      "ctaSecondary": "Schedule a Demo"
+    },
+    "hero": {
+      "subtitle": "For Business",
+      "title": "Find the Right Workers, Faster",
+      "description": "Smart hiring automation for employers who need reliable blue-collar workers — fast, easy, and verified."
+    },
+    "dashboard": {
+      "subtitle": "Employer Dashboard",
+      "title": "Hiring Made Simple",
+      "description": "One dashboard for all your hiring needs. Post jobs, screen candidates, and manage your team — all in one place.",
+      "dashboardLabel": "Hiring Dashboard",
+      "stat1Label": "Average Time to Hire",
+      "stat1Value": "3 days",
+      "stat2Label": "Faster Hiring",
+      "stat2Value": "85%",
+      "stat3Label": "Active Employers",
+      "stat3Value": "10K+",
+      "stat4Label": "Worker Pool",
+      "stat4Value": "500K+",
+      "recentActivity": "Recent Activity",
+      "activity1": "12 new applications for Welder position",
+      "activity2": "5 candidates shortlisted for interview"
+    },
+    "features": {
+      "subtitle": "Employer Tools",
+      "title": "Everything You Need to Hire",
+      "description": "From posting to onboarding, Trabz is your partner throughout the entire hiring process.",
+      "feature1Name": "Smart Screening",
+      "feature1Desc": "Automatic candidate filtering based on skills, experience, and proximity. No more manual screening.",
+      "feature2Name": "Bulk Hiring",
+      "feature2Desc": "Hire 10 or 100 workers in a single posting. Ideal for construction and manufacturing.",
+      "feature3Name": "Real-Time Analytics",
+      "feature3Desc": "Dashboard to view hiring metrics, application rates, and time-to-hire.",
+      "feature4Name": "Built-in Chat",
+      "feature4Desc": "Direct messaging with candidates. Interview scheduling. No need for a separate tool.",
+      "feature5Name": "Compliance Ready",
+      "feature5Desc": "DOLE-compliant contracts and documentation. Auto-generated for peace of mind.",
+      "feature6Name": "ATS Integration",
+      "feature6Desc": "Seamless integration with existing HR systems. API-ready for enterprise clients."
+    },
+    "pricing": {
+      "subtitle": "Pricing",
+      "title": "Simple, transparent pricing",
+      "tier1Name": "Starter",
+      "tier1Price": "Free",
+      "tier1Desc": "For small businesses just getting started.",
+      "tier1Feature1": "5 job posts/month",
+      "tier1Feature2": "Basic candidate search",
+      "tier1Feature3": "Chat messaging",
+      "tier1Feature4": "Email support",
+      "tier1Cta": "Sign Up",
+      "tier2Name": "Business",
+      "tier2Price": "₱2,499/mo",
+      "tier2Desc": "For growing businesses that hire regularly.",
+      "tier2Feature1": "Unlimited job posts",
+      "tier2Feature2": "Smart screening",
+      "tier2Feature3": "Analytics dashboard",
+      "tier2Feature4": "Bulk hiring tools",
+      "tier2Feature5": "Priority support",
+      "tier2Feature6": "DOLE-compliant contracts",
+      "tier2Cta": "Sign Up",
+      "tier3Name": "Enterprise",
+      "tier3Price": "Custom",
+      "tier3Desc": "For large companies with complex hiring needs.",
+      "tier3Feature1": "Everything in Business",
+      "tier3Feature2": "ATS integration",
+      "tier3Feature3": "Dedicated account manager",
+      "tier3Feature4": "Custom API access",
+      "tier3Feature5": "SLA guarantee",
+      "tier3Feature6": "Multi-branch support",
+      "tier3Cta": "Contact Sales"
+    },
+    "cta": {
+      "title": "Post a Job for Free",
+      "description": "Start hiring now — the first 5 job posts are free. No credit card needed.",
+      "primaryText": "Post Now",
+      "secondaryText": "Schedule a Demo"
+    },
+    "categories": {
+      "subtitle": "Complete Hiring Suite",
+      "title": "Every Tool You Need to Hire",
+      "description": "Smart recruitment, behavioral assessments, and team management — all in one platform.",
+      "hiringAutomation": {
+        "name": "Hiring Automation",
+        "feature1Name": "Smart Ad Placement",
+        "feature1Desc": "Auto-generate and place job ads where your ideal candidates will see them.",
+        "feature2Name": "Candidate Scoring",
+        "feature2Desc": "Smart scoring ranks applicants — top candidates surface first.",
+        "feature3Name": "Auto-Scheduling",
+        "feature3Desc": "Book interviews directly into your calendar with zero back-and-forth.",
+        "feature4Name": "KayaScore Assessment",
+        "feature4Desc": "21-trait behavioral profiling with role-specific benchmarks.",
+        "feature5Name": "Custom Interview Questions",
+        "feature5Desc": "Auto-generated questions tailored to each role and candidate profile.",
+        "feature6Name": "Employer Dashboard",
+        "feature6Desc": "View all candidates, scores, pipeline stages, and team behavioral overview.",
+        "feature7Name": "Conflict Analysis",
+        "feature7Desc": "See compatibility between team members before you hire.",
+        "feature8Name": "Coaching Reports",
+        "feature8Desc": "Post-hire behavioral coaching recommendations for every new hire.",
+        "feature9Name": "Messenger Bot Recruiter",
+        "feature9Desc": "Conversational recruiter via Facebook Messenger — where Filipinos are.",
+        "feature10Name": "Smart Voice Recruiter",
+        "feature10Desc": "Voice calls in Filipino and Bisaya for workers with low literacy.",
+        "feature11Name": "Bulk Hiring Tools",
+        "feature11Desc": "Hire at scale for agencies, BPOs, and construction firms."
+      },
+      "employerTools": {
+        "name": "Employer Tools",
+        "feature1Name": "Company Profile",
+        "feature1Desc": "Employer branding page with photos, reviews, and benefits showcase.",
+        "feature2Name": "ATS Pipeline",
+        "feature2Desc": "Kanban-style tracking: Applied → Screened → Interviewed → Hired.",
+        "feature3Name": "Analytics Dashboard",
+        "feature3Desc": "Track time-to-hire, cost-per-hire, and source effectiveness.",
+        "feature4Name": "Team Management",
+        "feature4Desc": "View employee behavioral profiles, identify gaps, and plan growth.",
+        "feature5Name": "Payroll Integration",
+        "feature5Desc": "Connect to existing payroll systems for seamless operations.",
+        "feature6Name": "Compliance Tools",
+        "feature6Desc": "DOLE labor compliance checklists and minimum wage alerts.",
+        "feature7Name": "Pay-Per-Hire Model",
+        "feature7Desc": "No subscription required — only pay when you successfully hire."
+      }
+    }
+  },
+  "ofw": {
+    "hero": {
+      "subtitle": "OFW Hub",
+      "title": "With You Wherever You Are in the World",
+      "description": "For 10 million Filipino OFWs — verified jobs, contract protection, remittance tracking, and emergency support in one app."
+    },
+    "features": {
+      "subtitle": "OFW Features",
+      "title": "Protection and Support for OFWs",
+      "description": "From job search to homecoming, Trabz is with you every step of your OFW journey.",
+      "feature1Name": "DMW-Verified Jobs",
+      "feature1Desc": "Overseas jobs verified by the Department of Migrant Workers. Legitimate and safe.",
+      "feature2Name": "Smart Contract Scanner",
+      "feature2Desc": "Scan your contract and highlight red flags before you sign. Smart protection.",
+      "feature3Name": "SOS Hotline",
+      "feature3Desc": "24/7 emergency hotline for OFWs who need help anywhere in the world.",
+      "feature4Name": "Remittance Tracker",
+      "feature4Desc": "Track your remittances to your family. Integration with GCash, Maya, and bank transfer.",
+      "feature5Name": "Document Manager",
+      "feature5Desc": "Digital storage for passports, contracts, and certifications. Organized and secure.",
+      "feature6Name": "Pre-Departure Training",
+      "feature6Desc": "Online modules for language, culture, and skills needed in the destination country.",
+      "feature7Name": "Agency Ratings",
+      "feature7Desc": "Rate and review recruitment agencies — find trusted partners for your overseas journey."
+    },
+    "familyDashboard": {
+      "subtitle": "Family Dashboard",
+      "title": "Connected Even When Apart",
+      "description": "Your family in the Philippines has their own dashboard to see remittance status, budget tracker, and your important updates.",
+      "stat1Label": "Filipino OFWs Worldwide",
+      "stat1Value": "10M+",
+      "stat2Label": "Countries Covered",
+      "stat2Value": "48+",
+      "stat3Label": "Remittance Tracked",
+      "stat3Value": "₱500M+",
+      "stat4Label": "Contracts Scanned",
+      "stat4Value": "25K+",
+      "remittanceTrackerTitle": "Remittance Tracker",
+      "totalSentLabel": "Total Sent This Month",
+      "totalSentValue": "₱45,000",
+      "tx1To": "Mom — GCash",
+      "tx1Amount": "₱20,000",
+      "tx1Status": "Received",
+      "tx2To": "Kuya — Maya",
+      "tx2Amount": "₱15,000",
+      "tx2Status": "Received",
+      "tx3To": "Savings — BPI",
+      "tx3Amount": "₱10,000",
+      "tx3Status": "Processing"
+    },
+    "faqs": {
+      "subtitle": "Questions",
+      "title": "OFW Frequently Asked Questions",
+      "faq1Question": "How do I apply for overseas jobs on Trabz?",
+      "faq1Answer": "Simply create an OFW profile, upload your documents, and browse DMW-verified job listings. Our smart engine will match you with the right opportunities based on your skills and preferred destination.",
+      "faq2Question": "Is the Smart Contract Scanner safe?",
+      "faq2Answer": "Yes, the Smart Contract Scanner uses advanced algorithms to analyze employment contracts. We do not save your contracts — everything is encrypted and deleted after scanning. We only provide highlights and warnings.",
+      "faq3Question": "How do I use the Remittance Tracker?",
+      "faq3Answer": "Just connect your GCash or Maya account, and all your remittances will be tracked automatically. You can also set remittance schedules and notify your family when a transfer has been sent.",
+      "faq4Question": "Are the OFW features free?",
+      "faq4Answer": "The basic OFW features are free — job search, document storage, and the SOS hotline. Premium features like the Smart Contract Scanner and advanced remittance tools are included in the paid plan.",
+      "faq5Question": "How do I contact the SOS Hotline?",
+      "faq5Answer": "Just tap the SOS button in the app and you'll be automatically connected to the nearest Philippine embassy or consulate. Available 24/7 in all countries with an OFW presence."
+    },
+    "cta": {
+      "title": "Start Your OFW Journey",
+      "description": "Download Trabz and access DMW-verified jobs, contract protection, and 24/7 support — wherever you are in the world.",
+      "primaryText": "Download Now",
+      "secondaryText": "Learn More"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "subtitle": "Pricing",
+      "title": "Simple, Transparent Pricing",
+      "description": "No hidden fees. No surprise charges. Choose the plan that fits your needs."
+    },
+    "tiers": {
+      "tier1Name": "Free",
+      "tier1PriceMonthly": "₱0",
+      "tier1PriceAnnual": "₱0",
+      "tier1Description": "For workers and small businesses just getting started.",
+      "tier1Feature1": "Unlimited job search",
+      "tier1Feature2": "5 job posts/month (employers)",
+      "tier1Feature3": "Basic smart matching",
+      "tier1Feature4": "E-wallet (₱50K limit)",
+      "tier1Feature5": "Community access",
+      "tier1Feature6": "Email support",
+      "tier1Cta": "Sign Up — Free",
+      "tier2Name": "Business",
+      "tier2PriceMonthly": "₱2,499",
+      "tier2PriceAnnual": "₱1,999",
+      "tier2Description": "For growing businesses that hire regularly.",
+      "tier2Feature1": "Everything in Free",
+      "tier2Feature2": "Unlimited job posts",
+      "tier2Feature3": "Smart screening & ranking",
+      "tier2Feature4": "Analytics dashboard",
+      "tier2Feature5": "Bulk hiring tools",
+      "tier2Feature6": "DOLE-compliant contracts",
+      "tier2Feature7": "Priority support",
+      "tier2Feature8": "Branded company page",
+      "tier2Cta": "Start Free Trial",
+      "tier3Name": "Enterprise",
+      "tier3PriceMonthly": "Custom",
+      "tier3PriceAnnual": "Custom",
+      "tier3Description": "For large companies with complex hiring needs.",
+      "tier3Feature1": "Everything in Business",
+      "tier3Feature2": "ATS/HRIS integration",
+      "tier3Feature3": "Dedicated account manager",
+      "tier3Feature4": "Custom API access",
+      "tier3Feature5": "SLA guarantee (99.9%)",
+      "tier3Feature6": "Multi-branch support",
+      "tier3Feature7": "Custom assessment tools",
+      "tier3Feature8": "White-label options",
+      "tier3Cta": "Contact Sales"
+    },
+    "faqs": {
+      "subtitle": "Pricing Questions",
+      "title": "Frequently Asked Questions",
+      "faq1Question": "Is the basic plan really free?",
+      "faq1Answer": "Yes! The Free plan is completely free — forever. Unlimited job search for workers and 5 job posts per month for employers. No hidden fees.",
+      "faq2Question": "Can I cancel anytime?",
+      "faq2Answer": "Yes, you can cancel the Business plan anytime. No lock-in period. Your subscription will simply expire at the end of the billing cycle.",
+      "faq3Question": "Is there a free trial for the Business plan?",
+      "faq3Answer": "Yes! The Business plan comes with a 14-day free trial. Full access to all features. No credit card needed to start.",
+      "faq4Question": "How does billing work for Enterprise?",
+      "faq4Answer": "The Enterprise plan has custom pricing based on your needs. Contact our sales team for a personalized quote and demo.",
+      "faq5Question": "What payment methods are accepted?",
+      "faq5Answer": "We accept GCash, Maya, credit/debit cards, and bank transfer. For Enterprise, invoice-based billing is also available.",
+      "faq6Question": "Is there a discount for the annual plan?",
+      "faq6Answer": "Yes! Save 20% with the annual plan. For example, the Business plan is ₱2,499/mo monthly but only ₱1,999/mo when billed annually."
+    },
+    "cta": {
+      "title": "Get Started Now",
+      "description": "Try the Business plan for 14 days — free. No credit card needed.",
+      "primaryText": "Start Free Trial",
+      "secondaryText": "Contact Sales"
+    },
+    "kayaScore": {
+      "subtitle": "KayaScore Assessment",
+      "title": "Assessment Pricing",
+      "tier1Name": "Basic Assessment",
+      "tier1Price": "Free",
+      "tier1Desc": "Layer 1 behavioral profile for all workers",
+      "tier1Cta": "Get Started",
+      "tier1Feature1": "21 behavioral trait scales",
+      "tier1Feature2": "Motivators & work preferences",
+      "tier1Feature3": "15-20 minute assessment",
+      "tier2Name": "Full Assessment",
+      "tier2Price": "₱150-300",
+      "tier2Desc": "All 3 layers per candidate",
+      "tier2Cta": "Start Assessing",
+      "tier2Feature1": "Everything in Basic",
+      "tier2Feature2": "Situational Judgment Test",
+      "tier2Feature3": "Dark Trait Screening",
+      "tier2Feature4": "Complete score card",
+      "tier3Name": "Bulk Assessment",
+      "tier3Price": "₱100",
+      "tier3Desc": "Per candidate for 50+ assessments",
+      "tier3Cta": "Contact Sales",
+      "tier3Feature1": "Everything in Full",
+      "tier3Feature2": "Volume discounts",
+      "tier3Feature3": "Dedicated support",
+      "tier4Name": "Premium Insights",
+      "tier4Price": "₱500/mo",
+      "tier4Desc": "Advanced employer analytics",
+      "tier4Cta": "Upgrade Now",
+      "tier4Feature1": "Team behavioral heatmap",
+      "tier4Feature2": "Coaching reports",
+      "tier4Feature3": "Custom benchmarks",
+      "tier4Feature4": "Conflict matrix",
+      "tier5Name": "OFW Agency Package",
+      "tier5Price": "₱5,000/mo",
+      "tier5Desc": "Unlimited assessments for agencies",
+      "tier5Cta": "Contact Sales",
+      "tier5Feature1": "Unlimited candidate assessments",
+      "tier5Feature2": "Agency dashboard",
+      "tier5Feature3": "Priority support",
+      "tier6Name": "API Access",
+      "tier6Price": "Custom",
+      "tier6Desc": "Enterprise HR systems integration",
+      "tier6Cta": "Talk to Us",
+      "tier6Feature1": "RESTful API access",
+      "tier6Feature2": "Custom integrations",
+      "tier6Feature3": "Dedicated account manager"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "About Us",
+      "title": "Empowering Every Filipino Worker",
+      "description": "Trabz is a superapp built for the Filipino blue-collar worker — from finding a job to leveling up your career."
+    },
+    "story": {
+      "subtitle": "Our Story",
+      "title": "From Problem to Solution",
+      "paragraph1": "We saw how blue-collar workers struggled to find jobs. They would line up early at construction sites, pay illegal recruiters, and had no access to financial services.",
+      "paragraph2": "That's why we built Trabz — a platform that provides dignity, opportunity, and financial inclusion for every Filipino worker.",
+      "stat1Label": "Founded",
+      "stat1Value": "2026",
+      "stat2Label": "Workers Served",
+      "stat2Value": "500K+",
+      "stat3Label": "Employers",
+      "stat3Value": "10K+",
+      "stat4Label": "Cities Covered",
+      "stat4Value": "150+",
+      "stat5Label": "Wages Facilitated",
+      "stat5Value": "₱2B+",
+      "stat6Label": "Team Members",
+      "stat6Value": "120+"
+    },
+    "timeline": {
+      "subtitle": "Our Journey",
+      "title": "From Idea to Superapp",
+      "item1Year": "2023",
+      "item1Title": "The Idea",
+      "item1Desc": "Trabz started as an idea — how can we help blue-collar workers find jobs faster?",
+      "item2Year": "2024-2025",
+      "item2Title": "Research & Development",
+      "item2Desc": "Deep market research, platform architecture design, and community building.",
+      "item3Year": "2026 Q1",
+      "item3Title": "Prototype",
+      "item3Desc": "Alpha release and pilot testing with select construction firms and transport groups.",
+      "item4Year": "2026 Q3",
+      "item4Title": "Public Launch",
+      "item4Desc": "Official app launch in Metro Manila. Targeting 50k early adopters.",
+      "item5Year": "2027",
+      "item5Title": "Nationwide Expansion",
+      "item5Desc": "Expansion to key cities in Visayas and Mindanao, and launch of the OFW Hub."
+    },
+    "values": {
+      "subtitle": "Our Values",
+      "title": "The Foundation of Trabz",
+      "value1Name": "Dignity",
+      "value1Desc": "Every job is honorable. We respect and honor every type of livelihood.",
+      "value2Name": "Resourcefulness",
+      "value2Desc": "Innovation and resourcefulness — the DNA of the Filipino worker.",
+      "value3Name": "Bayanihan",
+      "value3Desc": "We rise together. A community-driven approach in everything we do.",
+      "value4Name": "Trust",
+      "value4Desc": "Trust and transparency in every transaction. Verified identities, honest reviews.",
+      "value5Name": "Growth",
+      "value5Desc": "Continuous growth through upskilling, training, and career development."
+    },
+    "team": {
+      "subtitle": "The Team",
+      "title": "The People Behind Trabz",
+      "member1Name": "Carlos Mendoza",
+      "member1Role": "CEO & Co-Founder",
+      "member1Initials": "CM",
+      "member2Name": "Patricia Reyes",
+      "member2Role": "CTO & Co-Founder",
+      "member2Initials": "PR",
+      "member3Name": "Miguel Santos",
+      "member3Role": "Head of Product",
+      "member3Initials": "MS",
+      "member4Name": "Angela Cruz",
+      "member4Role": "Head of Operations",
+      "member4Initials": "AC",
+      "member5Name": "Roberto Lim",
+      "member5Role": "Head of Engineering",
+      "member5Initials": "RL",
+      "member6Name": "Diana Torres",
+      "member6Role": "Head of Community",
+      "member6Initials": "DT"
+    },
+    "cta": {
+      "title": "Want to Join Us?",
+      "description": "Be part of the mission to empower every Filipino worker. Download the app or partner with us.",
+      "primaryText": "Download the App",
+      "secondaryText": "Become a Partner"
+    },
+    "trustSafety": {
+      "subtitle": "Trust & Safety",
+      "title": "Your Security is Our Priority",
+      "description": "Comprehensive verification and safety systems to protect every worker and employer.",
+      "feature1Name": "ID Verification",
+      "feature1Desc": "NBI clearance, valid ID, and selfie verification for all users.",
+      "feature2Name": "Background Checks",
+      "feature2Desc": "Criminal record and employment history verification.",
+      "feature3Name": "Scam Detection",
+      "feature3Desc": "Smart system flags suspicious job posts and employers automatically.",
+      "feature4Name": "Dispute Resolution",
+      "feature4Desc": "In-app mediation for payment or workplace issues.",
+      "feature5Name": "SOS Button",
+      "feature5Desc": "Emergency button for workers in unsafe situations — instant help."
+    },
+    "aiTech": {
+      "subtitle": "Smart Technology",
+      "title": "Powered by Intelligent Technology",
+      "description": "Cutting-edge smart systems that make hiring smarter and working safer.",
+      "feature1Name": "Job Matching Engine",
+      "feature1Desc": "Smart skills-to-job matching that improves with every hire.",
+      "feature2Name": "Fraud Detection",
+      "feature2Desc": "Real-time smart monitoring flags suspicious activity and scams.",
+      "feature3Name": "Smart Credit Scoring",
+      "feature3Desc": "Alternative credit scoring using job history and platform behavior.",
+      "feature4Name": "Smart Contract Review",
+      "feature4Desc": "Automatically detects red flags in OFW employment contracts.",
+      "feature5Name": "ML Flywheel",
+      "feature5Desc": "Continuous learning: correlates traits with outcomes to refine benchmarks."
+    },
+    "platform": {
+      "subtitle": "Platform",
+      "title": "Built for Every Filipino",
+      "description": "Designed to work everywhere — from Metro Manila to the most remote provinces.",
+      "feature1Name": "Low-Data Mode",
+      "feature1Desc": "Lite app optimized for areas with poor connectivity.",
+      "feature2Name": "SMS Fallback",
+      "feature2Desc": "Critical features accessible via text for feature phone users.",
+      "feature3Name": "Barangay-Level Targeting",
+      "feature3Desc": "Hyperlocal job matching down to the barangay level.",
+      "feature4Name": "7 Language Support",
+      "feature4Desc": "Filipino, Bisaya, English, Ilocano, Hiligaynon, Waray, and Arabic."
+    }
+  },
+  "contact": {
+    "heading": {
+      "subtitle": "Contact Us",
+      "title": "Hello! How can we help you?",
+      "description": "Have a question, suggestion, or want to become a partner? Send us a message and we'll respond as soon as possible."
+    },
+    "info": {
+      "address": "Makati, Philippines",
+      "phone": "+63 2 8000 0000",
+      "email": "hello@trabz.ph"
+    },
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send",
+      "subjectOptions": {
+        "general": "General Inquiry",
+        "employer": "Employer Partnership",
+        "worker": "Worker Support",
+        "ofw": "OFW Assistance",
+        "media": "Media & Press"
+      }
+    },
+    "faqs": {
+      "subtitle": "Help",
+      "title": "Frequently Asked Questions",
+      "faq1Question": "How do I create an account?",
+      "faq1Answer": "Once the app launches, download Trabz, tap \"Sign Up\", and fill in your basic info — name, skills, and location. It takes less than 2 minutes!",
+      "faq2Question": "Is Trabz free for workers?",
+      "faq2Answer": "Yes! Job search, applications, and basic features are free for all workers. No hidden fees.",
+      "faq3Question": "How do I report a scam or fake job?",
+      "faq3Answer": "Tap the \"Report\" button on any job posting. Our team will investigate within 24 hours and take action.",
+      "faq4Question": "Where is Trabz available?",
+      "faq4Answer": "Trabz is available throughout the Philippines — Metro Manila, Luzon, Visayas, and Mindanao. There's also an OFW Hub for overseas workers.",
+      "faq5Question": "How do I contact support?",
+      "faq5Answer": "You can message us via in-app chat or email us at hello@trabz.ph."
+    }
+  },
+  "kayaScore": {
+    "hero": {
+      "subtitle": "KayaScore Assessment",
+      "title": "The Right Person in the Right Seat",
+      "description": "Smart job-fit assessment that helps employers find the best-matched candidates — and workers find jobs that truly fit them."
+    },
+    "howItWorks": {
+      "subtitle": "How It Works",
+      "title": "Three Simple Steps",
+      "step1Name": "Take the Assessment",
+      "step1Desc": "A 15-minute online assessment that measures your skills, personality, and work preferences. No right or wrong answers.",
+      "step2Name": "Smart Analysis",
+      "step2Desc": "Our smart engine analyzes your responses and creates a comprehensive job-fit profile.",
+      "step3Name": "Get Matched",
+      "step3Desc": "Employers and workers receive a compatibility score. The higher the score, the better the job fit."
+    },
+    "features": {
+      "subtitle": "Features",
+      "title": "Why KayaScore?",
+      "description": "Not just a simple test — but a complete assessment platform powered by smart technology for smarter hiring decisions.",
+      "feature1Name": "Skills Mapping",
+      "feature1Desc": "Comprehensive assessment of technical and soft skills. Based on TESDA National Competency standards.",
+      "feature2Name": "Smart Matching",
+      "feature2Desc": "Smart algorithm that analyzes thousands of data points for the most accurate job-fit score.",
+      "feature3Name": "Performance Prediction",
+      "feature3Desc": "Predictive analytics that forecasts how successful a candidate will be in a role based on assessment results.",
+      "feature4Name": "Culture Fit Analysis",
+      "feature4Desc": "Not just skills — also measures work values, team dynamics, and cultural compatibility.",
+      "feature5Name": "TESDA-Aligned Standards",
+      "feature5Desc": "Assessment aligned with TESDA National Competency standards for blue-collar and technical roles.",
+      "feature6Name": "Bias-Free Assessment",
+      "feature6Desc": "Data-driven and objective scoring. No bias on age, gender, or background. Fair for everyone.",
+      "feature7Name": "Behavioral Profiling",
+      "feature7Desc": "21-trait assessment across 5 domains: Work Ethic, Safety, Interpersonal, Adaptability, and Motivation.",
+      "feature8Name": "Situational Judgment Test",
+      "feature8Desc": "Role-specific scenario questions for 9 job categories from construction to caregiving.",
+      "feature9Name": "Dark Trait Screening",
+      "feature9Desc": "6 dark personality traits screening for safety-critical roles like drivers and caregivers.",
+      "feature10Name": "Scoring Engine",
+      "feature10Desc": "Weighted scoring: 40% behavioral, 35% situational judgment, 25% dark trait screen.",
+      "feature11Name": "Role-Specific Benchmarks",
+      "feature11Desc": "Ideal trait profiles per job category based on top performer data."
+    },
+    "stats": {
+      "subtitle": "By the Numbers",
+      "title": "Proven Results",
+      "stat1Label": "Job-Fit Accuracy",
+      "stat1Value": "94%",
+      "stat2Label": "Employers Using It",
+      "stat2Value": "5K+",
+      "stat3Label": "Assessments Completed",
+      "stat3Value": "250K+",
+      "stat4Label": "Faster Hiring",
+      "stat4Value": "3x"
+    },
+    "faqs": {
+      "subtitle": "Questions",
+      "title": "KayaScore FAQ",
+      "faq1Question": "Is the KayaScore Assessment free?",
+      "faq1Answer": "Yes, the assessment is free for all workers. For employers, unlimited assessments are included in the Business and Enterprise plans.",
+      "faq2Question": "How long does the assessment take?",
+      "faq2Answer": "About 15 minutes. Can be completed on phone or computer. No time pressure — go at your own pace.",
+      "faq3Question": "How is the job-fit score calculated?",
+      "faq3Answer": "Our smart engine analyzes skills, personality traits, work preferences, and cultural values. It compares these against job requirements to produce a compatibility percentage.",
+      "faq4Question": "Can I retake the assessment?",
+      "faq4Answer": "Yes, you can retake after 30 days. Your results improve as you acquire new skills and experience.",
+      "faq5Question": "Is my data safe?",
+      "faq5Answer": "Yes. All assessment data is encrypted. We never share raw data with employers — they only see the compatibility score and summary."
+    },
+    "cta": {
+      "title": "Try KayaScore",
+      "description": "Find out which job fits you best. The assessment is free — start now.",
+      "primaryText": "Take the Assessment",
+      "secondaryText": "Back to For Business"
+    }
+  },
+  "metadata": {
+    "siteName": "Trabz",
+    "siteDescription": "The Filipino Worker's Superapp",
+    "siteUrl": "https://trabz.ph",
+    "home": {
+      "title": "Trabz | Hanap. Apply. Hired. | The Filipino Worker's Superapp",
+      "description": "Find jobs, earn daily, learn new skills, and access financial services. Smart job matching for Filipino blue-collar workers. Download the app now.",
+      "keywords": "job search Philippines, blue collar jobs, construction jobs, delivery rider, service crew, OFW jobs, hiring Philippines, trabaho, trabz app"
+    },
+    "workers": {
+      "title": "For Workers | Find Jobs Near You | Trabz",
+      "description": "Smart job matching for Filipino workers. One-tap apply, earned wage access, TESDA-aligned training, and verified employers. Free to use.",
+      "keywords": "find job Philippines, apply for job, blue collar work, construction worker, welder jobs, electrician jobs, driver jobs, gig work"
+    },
+    "employers": {
+      "title": "For Business | Hire Blue-Collar Workers Fast | Trabz",
+      "description": "Smart hiring automation for employers. Post jobs, screen candidates with KayaScore assessment, and hire verified blue-collar workers in days, not weeks.",
+      "keywords": "hire workers Philippines, blue collar hiring, construction workers, bulk hiring, job posting, HR software Philippines, applicant tracking"
+    },
+    "ofw": {
+      "title": "OFW Hub | DMW-Verified Jobs & Contract Protection | Trabz",
+      "description": "For 10 million Filipino OFWs — DMW-verified overseas jobs, Smart Contract Scanner, remittance tracker, family dashboard, and 24/7 emergency support.",
+      "keywords": "OFW jobs, overseas Filipino worker, DMW verified jobs, Saudi jobs, UAE jobs, Singapore jobs, HK domestic helper, contract review, remittance"
+    },
+    "pricing": {
+      "title": "Pricing | Simple & Transparent Plans | Trabz",
+      "description": "Free job search for workers. Affordable hiring plans for employers starting at ₱2,499/month. No hidden fees. Enterprise solutions available.",
+      "keywords": "Trabz pricing, job posting cost, hiring software pricing, HR platform Philippines, free job search, employer subscription"
+    },
+    "about": {
+      "title": "About Us | Empowering Filipino Workers | Trabz",
+      "description": "Trabz is the Filipino worker's superapp — from job search to career growth. Learn about our mission to provide dignity, opportunity, and financial inclusion.",
+      "keywords": "about Trabz, Filipino workers, blue collar platform, job marketplace Philippines, worker empowerment, TESDA training"
+    },
+    "contact": {
+      "title": "Contact Us | Get in Touch | Trabz",
+      "description": "Have questions or want to partner with Trabz? Contact our team for worker support, employer partnerships, OFW assistance, or media inquiries.",
+      "keywords": "contact Trabz, Trabz support, employer partnership, worker help, OFW hotline, Trabz phone number, Trabz email"
+    },
+    "assessment": {
+      "title": "KayaScore Assessment | Smart Job-Fit Testing | Trabz",
+      "description": "21-trait behavioral profiling that matches workers to the right job. Reduce bad hires by 60% with role-specific benchmarks and dark trait screening.",
+      "keywords": "KayaScore, job assessment, behavioral test, personality test work, hiring assessment, employee screening, job fit test"
+    },
+    "terms": {
+      "title": "Terms of Service | Trabz",
+      "description": "Read the Terms of Service for using the Trabz platform.",
+      "keywords": "Trabz terms of service, terms and conditions, user agreement"
+    },
+    "privacy": {
+      "title": "Privacy Policy | Trabz",
+      "description": "Learn how Trabz collects, uses, and protects your personal data.",
+      "keywords": "Trabz privacy policy, data privacy, personal data protection"
+    },
+    "dataProtection": {
+      "title": "Data Protection | Trabz",
+      "description": "Trabz data protection practices in compliance with the Philippine Data Privacy Act of 2012.",
+      "keywords": "data protection, DPA Philippines, RA 10173, NPC compliance"
+    },
+    "blog": {
+      "title": "Blog | Trabz",
+      "description": "Tips, stories, and insights for Filipino workers and employers.",
+      "keywords": "Trabz blog, career tips, hiring guides, Filipino workers"
+    },
+    "press": {
+      "title": "Press | Trabz",
+      "description": "Latest news, press releases, and media resources from Trabz.",
+      "keywords": "Trabz press, media kit, press releases, Trabz news"
+    },
+    "download": {
+      "title": "Download Trabz App | Free for Filipino Workers",
+      "description": "The Trabz app is coming soon — find jobs, earn daily, and access financial services. Free on Android and iOS.",
+      "keywords": "download Trabz, Trabz app, Google Play, Filipino worker app, job search app Philippines"
+    }
+  },
+  "terms": {
+    "badge": "Legal",
+    "title": "Terms of Service",
+    "description": "Please read these terms carefully before using the Trabz platform.",
+    "lastUpdated": "Last updated: February 7, 2026",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing or using the Trabz platform (\"Platform\"), including our mobile application, website, and related services, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the Platform.\n\nTrabz is operated by Trabz Technologies Inc., a company registered in the Republic of the Philippines."
+    },
+    "eligibility": {
+      "title": "Eligibility",
+      "content": "You must be at least 18 years old to create an account and use the Platform. By registering, you represent and warrant that you meet this age requirement and have the legal capacity to enter into a binding agreement.\n\nEmployer accounts must be created by an authorized representative of the company or organization."
+    },
+    "accounts": {
+      "title": "User Accounts",
+      "content": "You are responsible for maintaining the confidentiality of your account credentials. You agree to notify Trabz immediately of any unauthorized use of your account.\n\nYou may not share your account with others or create multiple accounts. Trabz reserves the right to suspend or terminate accounts that violate these Terms."
+    },
+    "conduct": {
+      "title": "User Conduct",
+      "content": "You agree not to:\n\n- Post false, misleading, or fraudulent job listings or profile information\n- Harass, threaten, or discriminate against other users\n- Use the Platform for any illegal purpose\n- Attempt to access other users' accounts or data\n- Scrape, crawl, or otherwise extract data from the Platform without authorization\n- Circumvent any security measures or access controls"
+    },
+    "content": {
+      "title": "Content and Intellectual Property",
+      "content": "You retain ownership of content you submit to the Platform (profile information, job posts, messages). By submitting content, you grant Trabz a non-exclusive, worldwide license to use, display, and distribute your content in connection with the Platform.\n\nThe Trabz name, logo, and all related marks are trademarks of Trabz Technologies Inc. You may not use them without prior written permission."
+    },
+    "payments": {
+      "title": "Payments and Fees",
+      "content": "Job searching and basic features are free for workers. Employer subscriptions and premium features are subject to the pricing listed on the Platform.\n\nAll payments are processed through our authorized payment partners (GCash, Maya, credit/debit cards). Trabz does not store your full payment card information.\n\nRefunds are processed in accordance with our refund policy. Subscription fees are non-refundable once the billing period has begun."
+    },
+    "termination": {
+      "title": "Termination",
+      "content": "You may delete your account at any time through the app settings. Trabz may suspend or terminate your account if you violate these Terms.\n\nUpon termination, your right to use the Platform ceases immediately. Trabz may retain certain data as required by law or for legitimate business purposes."
+    },
+    "disclaimers": {
+      "title": "Disclaimers",
+      "content": "The Platform is provided \"as is\" without warranties of any kind. Trabz does not guarantee employment outcomes, the accuracy of job listings, or the conduct of other users.\n\nTrabz is a platform that connects workers and employers. We are not an employer, staffing agency, or recruitment firm. Employment relationships are between the worker and the employer."
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "To the maximum extent permitted by Philippine law, Trabz shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Platform.\n\nTrabz's total liability shall not exceed the amount you paid to Trabz in the 12 months preceding the claim."
+    },
+    "governing": {
+      "title": "Governing Law",
+      "content": "These Terms shall be governed by the laws of the Republic of the Philippines. Any disputes shall be resolved in the courts of Makati City, Metro Manila."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "Trabz reserves the right to modify these Terms at any time. We will notify users of material changes via email or in-app notification. Continued use of the Platform after changes constitutes acceptance of the modified Terms."
+    },
+    "contactSection": {
+      "title": "Contact Us",
+      "content": "If you have questions about these Terms, please contact us at:\n\nTrabz Technologies Inc.\nMakati, Philippines\nEmail: legal@trabz.ph\nPhone: +63 2 8000 0000"
+    }
+  },
+  "privacy": {
+    "badge": "Legal",
+    "title": "Privacy Policy",
+    "description": "This policy describes how Trabz collects, uses, and protects your personal information.",
+    "lastUpdated": "Last updated: February 7, 2026",
+    "collection": {
+      "title": "Information We Collect",
+      "content": "We collect the following types of personal information:\n\nAccount Information: Name, email address, phone number, password, and profile photo.\n\nProfile Information: Skills, work experience, location, job preferences, and uploaded documents (ID, certifications).\n\nUsage Data: Device information, IP address, app usage patterns, and interaction data.\n\nLocation Data: GPS location (with your consent) for job matching and shift check-in/out.\n\nPayment Data: Transaction history and payment method details (processed by our payment partners)."
+    },
+    "usage": {
+      "title": "How We Use Your Information",
+      "content": "We use your personal information to:\n\n- Provide and improve the Platform's features and services\n- Match workers with relevant job opportunities\n- Process payments and financial transactions\n- Send notifications about job matches, application updates, and platform updates\n- Verify user identities and prevent fraud\n- Comply with legal obligations\n- Generate anonymized analytics to improve our services"
+    },
+    "sharing": {
+      "title": "Information Sharing",
+      "content": "We share your information with:\n\nEmployers: Your profile information is visible to employers when you apply for jobs.\n\nService Providers: Payment processors, cloud hosting, and analytics services that help operate the Platform.\n\nLegal Requirements: When required by law, court order, or government regulation.\n\nWe never sell your personal data to third parties for marketing purposes."
+    },
+    "storage": {
+      "title": "Data Storage and Security",
+      "content": "Your data is stored on secure servers with industry-standard encryption. We use SSL/TLS for data in transit and AES-256 encryption for data at rest.\n\nWe retain your data for as long as your account is active. After account deletion, we may retain certain data for up to 5 years as required by Philippine law."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "Under the Philippine Data Privacy Act of 2012 (RA 10173), you have the right to:\n\n- Access your personal data\n- Correct inaccurate data\n- Request deletion of your data (subject to legal requirements)\n- Object to data processing\n- Data portability\n- File a complaint with the National Privacy Commission (NPC)\n\nTo exercise these rights, contact our Data Protection Officer at dpo@trabz.ph."
+    },
+    "cookies": {
+      "title": "Cookies and Tracking",
+      "content": "Our website uses cookies and similar technologies to improve your browsing experience, analyze site traffic, and personalize content.\n\nYou can control cookie settings through your browser. Disabling cookies may affect some Platform features."
+    },
+    "children": {
+      "title": "Children's Privacy",
+      "content": "The Platform is not intended for users under 18 years of age. We do not knowingly collect personal information from minors. If we discover that we have collected data from a minor, we will delete it promptly."
+    },
+    "changes": {
+      "title": "Changes to This Policy",
+      "content": "We may update this Privacy Policy from time to time. We will notify you of material changes through the app or via email. Your continued use of the Platform after changes constitutes acceptance."
+    },
+    "contactSection": {
+      "title": "Contact Us",
+      "content": "For privacy-related inquiries, contact:\n\nData Protection Officer\nTrabz Technologies Inc.\nMakati, Philippines\nEmail: dpo@trabz.ph\nPhone: +63 2 8000 0000"
+    }
+  },
+  "dataProtection": {
+    "badge": "Legal",
+    "title": "Data Protection",
+    "description": "How Trabz protects your personal data in compliance with Philippine law.",
+    "lastUpdated": "Last updated: February 7, 2026",
+    "framework": {
+      "title": "Legal Framework",
+      "content": "Trabz Technologies Inc. complies with the Philippine Data Privacy Act of 2012 (Republic Act No. 10173) and its Implementing Rules and Regulations (IRR). We are registered with the National Privacy Commission (NPC) as a Personal Information Controller (PIC)."
+    },
+    "principles": {
+      "title": "Data Protection Principles",
+      "content": "We adhere to the following principles:\n\nTransparency: We inform you about how your data is collected and used.\n\nLegitimate Purpose: Data is collected only for declared, specified, and legitimate purposes.\n\nProportionality: We collect only the data that is necessary and relevant to our services."
+    },
+    "lawfulBasis": {
+      "title": "Lawful Basis for Processing",
+      "content": "We process your personal data based on:\n\nConsent: You provide consent when creating your account and agreeing to our Terms.\n\nContractual Necessity: Processing required to provide our services to you.\n\nLegal Obligation: Processing required to comply with Philippine laws and regulations.\n\nLegitimate Interest: Processing necessary for our legitimate business purposes, balanced against your rights."
+    },
+    "measures": {
+      "title": "Security Measures",
+      "content": "We implement the following security measures:\n\n- End-to-end encryption for sensitive data\n- Regular security audits and penetration testing\n- Access controls and authentication mechanisms\n- Employee training on data protection\n- Incident response procedures\n- Secure backup and disaster recovery systems"
+    },
+    "breach": {
+      "title": "Data Breach Response",
+      "content": "In the event of a personal data breach, we will:\n\n- Notify the National Privacy Commission within 72 hours\n- Notify affected data subjects if the breach poses a real risk of serious harm\n- Document the breach and corrective actions taken\n- Implement measures to prevent recurrence"
+    },
+    "transfers": {
+      "title": "Cross-Border Data Transfers",
+      "content": "Your data may be processed in servers located outside the Philippines for cloud hosting and service delivery. We ensure that any cross-border transfer complies with the Data Privacy Act and that adequate safeguards are in place to protect your data."
+    },
+    "dpo": {
+      "title": "Data Protection Officer",
+      "content": "Our appointed Data Protection Officer oversees compliance with data protection regulations:\n\nData Protection Officer\nTrabz Technologies Inc.\nMakati, Philippines\nEmail: dpo@trabz.ph\nPhone: +63 2 8000 0000"
+    },
+    "complaints": {
+      "title": "Complaints",
+      "content": "If you believe your data privacy rights have been violated, you may:\n\n1. Contact our Data Protection Officer at dpo@trabz.ph\n2. File a complaint with the National Privacy Commission (NPC)\n   Website: https://privacy.gov.ph\n   Email: complaints@privacy.gov.ph"
+    }
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Trabz Blog",
+    "description": "Tips, stories, and insights for Filipino workers and employers.",
+    "comingSoon": "Coming Soon",
+    "comingSoonDesc": "We're working on great content for you — career tips, hiring guides, worker success stories, and industry insights. Check back soon!"
+  },
+  "press": {
+    "badge": "Press",
+    "title": "Press & Media",
+    "description": "Latest news, press releases, and media resources from Trabz.",
+    "comingSoon": "Coming Soon",
+    "comingSoonDesc": "Our press page is being prepared. For media inquiries, please contact us at press@trabz.ph."
+  },
+  "download": {
+    "badge": "Download",
+    "title": "Get the Trabz App",
+    "description": "Your all-in-one app for jobs, gigs, upskilling, and financial services. Built for Filipino workers.",
+    "getApp": "Download Trabz for Free",
+    "getAppDesc": "Coming soon on Google Play and the App Store.",
+    "availability": "Coming soon on Android and iOS.",
+    "whyTitle": "Why Download Trabz?",
+    "features": {
+      "free": {
+        "title": "100% Free",
+        "desc": "No fees, no hidden charges. Find jobs and earn without paying anything."
+      },
+      "offline": {
+        "title": "Works Offline",
+        "desc": "Save jobs and view your profile even without internet. Syncs when you're back online."
+      },
+      "secure": {
+        "title": "Safe & Verified",
+        "desc": "All employers are verified. Your personal data is protected by Philippine data privacy laws."
+      },
+      "lightweight": {
+        "title": "Lightweight",
+        "desc": "Only ~25 MB. Runs smoothly even on budget Android phones."
+      }
+    },
+    "requirementsTitle": "System Requirements",
+    "req": {
+      "os": "Operating System",
+      "size": "App Size",
+      "price": "Price",
+      "free": "Free",
+      "languages": "Languages"
+    },
+    "employerCta": "Are you an employer looking to post jobs?",
+    "employerCtaLink": "Visit the Employer Portal"
+  }
+}
